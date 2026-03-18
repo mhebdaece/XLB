@@ -7,3 +7,4 @@ from xlb.helper.ibm_helper import (
     prepare_immersed_boundary,
     calculate_voronoi_areas,
 )
+from xlb.helper.multilevel_fields import create_multilevel_nse_fields

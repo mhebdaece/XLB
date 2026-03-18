@@ -35,3 +35,6 @@ import xlb.utils
 
 # Distributed computing
 import xlb.distribute
+
+# Static refinement
+import xlb.refinement
